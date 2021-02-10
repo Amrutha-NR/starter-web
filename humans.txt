@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> Amrutha NR <twitter>
+    <name> Amrutha NR 
+    nsr.amrutha@gmail.com <twitter>
 
 # THANKS
 
