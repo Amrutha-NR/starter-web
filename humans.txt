@@ -4,7 +4,7 @@
 # TEAM
 
     <name> Amrutha NR 
-    nsr.amrutha@gmail.com <twitter>
+   <twitter>
 
 # THANKS
 
@@ -14,3 +14,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Jenkins, Java 
