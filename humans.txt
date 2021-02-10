@@ -4,7 +4,7 @@
 # TEAM
 
     <name> Amrutha NR 
-    nsr.amrutha@gmail.com <twitter>
+   <twitter>
 
 # THANKS
 
