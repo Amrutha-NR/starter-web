@@ -10,7 +10,7 @@ This is the Best Project
 
 ## GIT and GitHub Training
 
-It's good going
+It's good going. Have done so much of work together
 
 ## Course
 
