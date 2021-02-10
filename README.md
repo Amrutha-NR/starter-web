@@ -7,3 +7,11 @@ This is GIT Project, which we are using as Sample Project
 
 Sample website with plenty of files for demos
 This is the Best Project
+
+## GIT and GitHub Training
+
+It's good going
+
+## Course
+
+It is excellent
