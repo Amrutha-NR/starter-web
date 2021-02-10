@@ -24,4 +24,4 @@ It is excellent
 Udemy 
 
 ## Thanks
-Lectures
+Lectures. Waiting for new technologies.
