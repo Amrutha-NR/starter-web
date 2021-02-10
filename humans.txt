@@ -6,6 +6,8 @@ Hi, I am modifying the file before rebase
 # TEAM
 
     <name> Amrutha NR 
+    I am Software Egineer. 
+    nsr.amrutha@gmail.com
    <twitter>
 
 # THANKS
