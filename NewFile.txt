@@ -1,2 +1,4 @@
 #Adding new file in Git Repo
 This file is not tracked by git
+
+Adding stash new branch
